@@ -42,4 +42,4 @@ With **GitHub Desktop**:
 
 * [Introduction to Git - Core Concepts](https://www.youtube.com/watch?v=uR6G2v_WsRA)
 * [Introduction to Git - Branching and Merging](https://www.youtube.com/watch?v=FyAAIHHClqI) 
-* [Introduction to Git - Remotes] (https://www.youtube.com/watch?v=Gg4bLk8cGNo)
+* [Introduction to Git - Remotes](https://www.youtube.com/watch?v=Gg4bLk8cGNo)
