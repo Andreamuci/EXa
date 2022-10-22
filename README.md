@@ -8,7 +8,7 @@ This git repository provides the **open educational resources (OER)** used in th
 
 We use this git repository to disseminate the course material. It would be best if you used a Git client to **clone the repository** regularly. More on Git **[here](./eeng0020_LAB_Course_Preparation/git.md)**. 
 
-Alternatively you can also **download the zipped repository**.<br>
+Alternatively you can also **download the zipped repository**. Go to the [repository homepage](https://github.com/rolfbecker/EE_1.08_2_EEng_LAB_WS2022) and right click on the green botton at the upper right corner. Choose "
 
 
 
