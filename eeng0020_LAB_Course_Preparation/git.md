@@ -13,14 +13,14 @@ For now we recommend the graphical user interface [**GitHub Desktop**](https://d
 
 ## Clone the Repository
 
-Command line: `git clone https://github.com/rolfbecker/EE_3.07_Geodata_WS2021.git`
+Command line: `git clone https://github.com/rolfbecker/EE_1.08_2_EEng_LAB_WS2022.git`
 
 With **GitHub Desktop**:
 
 1. Open GitHub desktop
 1. Go to _File -> Clone repository ..._
 1. Change to tab _URL_
-1. Copy the URL `https://github.com/rolfbecker/EE_3.07_Geodata_WS2021.git` into the URL field
+1. Copy the URL `https://github.com/rolfbecker/EE_1.08_2_EEng_LAB_WS2022.git` into the URL field
 1. Choose your local path (directory). In this directory a new directory with the repo name will be created.
 1. Press button _clone_.
 
