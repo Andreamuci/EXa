@@ -13,12 +13,12 @@ We use this git repository to disseminate the course material. It would be best 
 
 Alternatively you can also **download the zipped repository**. Go to the [repository homepage](https://github.com/rolfbecker/EE_1.08_2_EEng_LAB_WS2022) and click on the green botton at the upper right corner. Choose "Download zip" and save the zip archieve to an appropriate folder on your harddrive. Go to this folder and **really unzip** the archieve. Do not just click and enter it!
 
-The **[Course Preparation Section](./eeng0020_LAB_Course_Preparation/README.md)** explains the **creation of a Jupyter enviroment.**
+The **[Course Preparation Section](./EEng_LAB_Course_Preparation/README.md)** explains the **creation of a Jupyter enviroment.**
 
 
 ## Lab Exercises ##
 
-* [Exercise 1](ex1): Calibrate a CdS Photocell (aka Light Dependent Resistor). 
+* [Exercise 1](ex1): Calibrate a CdS Photoresistor (aka Light Dependent Resistor ot Photocell). 
 * [Exercise 2](ex2): Determine the capacitance of an unknown electrolytic capacitor.
 * [Exercise 3](ex3): On PV Cells ...
 * [Exercise 4](ex4): Magnetic field applications, e.g. motor, generator, AC, ...

@@ -1,3 +1,3 @@
-# Exercise 1: Calibrate a CdS Photocell
+# Exercise 1: Calibrate a CdS Photoresistor
 
-Go to the [Jupyter Notebook](./photocell_V001.ipynb)
+
