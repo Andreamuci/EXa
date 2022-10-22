@@ -1,5 +1,4 @@
-# HSRW EE_1.08_2: Electrical Engineering Lab (as Part of Physics1)
-
+# HSRW EE_1.08_2: Electrical Engineering Lab
 This git repository provides the **open educational resources (OER)** used in the 1st semester course of the [**Environment & Energy Program**](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/bachelor-degree-programmes/environment-and) at [**Rhine-Waal University of Applied Sciences (HSRW)**](https://www.hsrw.eu/). 
 
 
