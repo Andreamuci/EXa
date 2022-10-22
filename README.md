@@ -18,7 +18,7 @@ The **[Course Preparation Section](./eeng0020_LAB_Course_Preparation/README.md)*
 
 ## Lab Exercises ##
 
-* Exercise 1: Calibrate a CdS Photocell (aka Light Dependent Resistor). 
+* [Exercise 1](ex1): Calibrate a CdS Photocell (aka Light Dependent Resistor). 
 * Exercise 2: Determine the capacitance of an unknown electrolytic capacitor.
 * Exercise 3: On PV Cells ...
 * Exercise 4: Magnetic field applications, e.g. motor, generator, AC, ...
