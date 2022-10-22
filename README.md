@@ -2,7 +2,7 @@
 
 This git repository provides the **open educational resources (OER)** used in the 1st semester course of the [**Environment & Energy Program**](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/bachelor-degree-programmes/environment-and) at [**Rhine-Waal University of Applied Sciences (HSRW)**](https://www.hsrw.eu/). 
 
-These lab exercises are part of the course [EE_1.08_2](../EE_1.08_2_EEng_WS2022).
+These lab exercises are part of the course [EE_1.08_2](https://github.com/rolfbecker/EE_1.08_2_EEng_WS2022/).
 
 ## How to download or clone the course material 
 
