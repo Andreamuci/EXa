@@ -6,7 +6,7 @@ These lab exercises are part of the course EE_1.08_2.
 
 ## How to download or clone the course material 
 
-We use this git repository to disseminate the course material. It would be best if you used a Git client to **clone the repository** regularly. More on Git [here](git.md). Alternatively you can also **download the zipped repository**.<br>
+We use this git repository to disseminate the course material. It would be best if you used a Git client to **clone the repository** regularly. More on Git [here](./eeng0020_LAB_Course_Preparation/git.md). Alternatively you can also **download the zipped repository**.<br>
 
 
 
