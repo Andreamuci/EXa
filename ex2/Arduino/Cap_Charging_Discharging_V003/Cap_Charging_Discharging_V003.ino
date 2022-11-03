@@ -72,8 +72,6 @@ void loop() {
     capacitorMV = ( (unsigned long)adcValue * 5000 ) / 1024;
     digitalMV = digInState*5000;
 
-    Serial.print(ms-ms0);
-    Serial.print(" ");
     Serial.print(chargeMV);
     Serial.print(" ");
     Serial.print(capacitorMV);
