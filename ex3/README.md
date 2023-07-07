@@ -1,3 +1,3 @@
 # Exercise 3: PV Module Performance and Partial Shading
 
-Go to the [Jupyter Notebook](./PV-Module_V001.ipynb)
+Go to the [Jupyter Notebook](./ex3/PV-Modules_Exercise_V001.ipynb)
